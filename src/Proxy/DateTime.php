@@ -1,9 +1,8 @@
 <?php
 
-namespace Horloger\Proxy;
+namespace Horloger;
 
 use DateTimeZone;
-use Horloger\PredefinedTime;
 
 /**
  * @author Joris Garonian <joris.garonian@gmail.com>

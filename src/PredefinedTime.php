@@ -45,11 +45,11 @@ final class PredefinedTime
 
     public static function stop()
     {
-        self::$stopped = false;
+        self::$stopped = true;
     }
 
     public static function start()
     {
-        self::$stopped = true;
+        self::$stopped = false;
     }
 }
