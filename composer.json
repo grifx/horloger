@@ -1,0 +1,17 @@
+{
+    "name": "grifx/horloger",
+    "authors": [
+        {
+            "name": "Joris Garonian",
+            "email": "joris.garonian@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Horloger\\": ["src"]
+        }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
